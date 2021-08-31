@@ -1,6 +1,7 @@
 #!/bin/bash
 
-PHOTOS_LIBRARY="$HOME/Pictures/Photos Library.photoslibrary"
+#PHOTOS_LIBRARY="$HOME/Pictures/Photos Library.photoslibrary"
+PHOTOS_LIBRARY="$HOME/Photo Library/Photos Library.photoslibrary"
 PHOTOS_DB="$PHOTOS_LIBRARY/database/photos.db"
 PHOTOS_DB_LOCK="$PHOTOS_DB.lock"
 
